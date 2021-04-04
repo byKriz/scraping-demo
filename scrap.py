@@ -3,7 +3,7 @@ from time import sleep
 from selenium import webdriver
 
 # Creando el objeto 
-driver = webdriver.Chrome('./chromedriver.exe')
+driver = webdriver.Chrome('./chromedriver')
 
 # Iniciando el navegador
 driver.get('https://www.olx.com.co/republica-de-venezuela_g5304712/carros_c378')
