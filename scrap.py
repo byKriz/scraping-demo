@@ -30,4 +30,3 @@ for car in cars:
     print()
     print(title[0].text)
     print(price[0].text)
-
